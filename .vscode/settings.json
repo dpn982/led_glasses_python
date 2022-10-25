@@ -1,0 +1,16 @@
+{
+    "python.analysis.extraPaths": [
+        "",
+        "c:\\Users\\dpn98\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.19-win32-x64\\stubs",
+        "c:\\Users\\dpn98\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20221021\\adafruit-circuitpython-bundle-py-20221021\\lib"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}\\lib"
+    ],
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "circuitpython.board.version": null
+}
